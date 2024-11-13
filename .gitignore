@@ -1,0 +1,6 @@
+build/
+*.dat
+.vscode/
+*.o
+airline
+
